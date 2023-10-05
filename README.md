@@ -1,5 +1,5 @@
-# Nick-Demelo
 ![octocat-1696334566595](https://github.com/NicholasDemelo/Nick-Demelo/assets/146837145/e48d6674-3b02-4114-9e72-1a63fea6e6a6)
+# Nick-Demelo
 
 ### Code.org Game Lab
 [RobotFace](https://nicholasdemelo.github.io/RobotFace/)
