@@ -6,7 +6,9 @@
 > In this project I used, shapes, variables, and randomness to express my creativity and created a Random Robot Face.
 
  
- [Captioned scenes] (https://studio.code.org/projects/gamelab/-oKESi0ViodMc27uxlJstpyZFbLQcQ2fajNh5sYKxmo)
+ [Captioned scenes](https://studio.code.org/projects/gamelab/-oKESi0ViodMc27uxlJstpyZFbLQcQ2fajNh5sYKxmo)
 > In this project I used shapes, sprites, variables, and advice from my partner to make a scene.
 
+[Interactive Card](https://studio.code.org/projects/gamelab/feMn4X_8ZxUrB_GRdrQgSeFhUiU4-hbmsu868LxoGtM)
+> In this project we made a card that you can interact with by using conditionals.
 
