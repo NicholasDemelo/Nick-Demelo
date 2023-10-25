@@ -14,5 +14,6 @@ I am a student at Walpole High School
 > In this project I used shapes, sprites, variables, and advice from my partner to make a scene.
 
 [Interactive Card](https://studio.code.org/projects/gamelab/feMn4X_8ZxUrB_GRdrQgSeFhUiU4-hbmsu868LxoGtM)
-  > In this project I made a card that you can interact with. I was able to make this card by using my knoiwledge of conditionals, and sprites.
+  >
+>  In this project I made a card that you can interact with. I was able to make this card by using my knoiwledge of conditionals, and sprites.
 
