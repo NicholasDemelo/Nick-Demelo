@@ -17,3 +17,6 @@ I am a student at Walpole High School
 
 >  In this project I made a card that you can interact with. I was able to make this card by using my knoiwledge of conditionals, and sprites.
 
+[Side Scroller Game] (https://studio.code.org/projects/gamelab/BGWT80nB7jbHkkc2tgkb2lIutFjbid9LDjr-8uMEs7E)
+> In this project we worked with a partner to make a side scroller type game. We did this by using our knowlegde of complex sprite movement.
+
