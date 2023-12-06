@@ -22,3 +22,6 @@ I am a student at Walpole High School
 
 [Flyer Game](https://studio.code.org/projects/gamelab/zhkOo3RXw0jdzYnI0pZHHSalcZtThK-mEzD_Fx7nOko)
 > In this project we made a game where you have to avoid obstacles as a frog in order to get to the moth. We did this by using our knowledge of complex sprite movement.
+
+ [Final Game Project](https://studio.code.org/projects/gamelab/B1BjaLUFiJ56_AAAWtr_OJxcwC4b7y-6DcT2balTiq4)
+> In this project we made an interactive game. Working by ourselves we made the game by using our knowledge of sprite movement, interactions, and patterns.
