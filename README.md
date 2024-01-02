@@ -28,3 +28,6 @@ I am a student at Walpole High School
 
  [Final Game Project](https://studio.code.org/projects/gamelab/B1BjaLUFiJ56_AAAWtr_OJxcwC4b7y-6DcT2balTiq4)
 > In this project we made an interactive game. Working by ourselves we made the game by using our knowledge of sprite movement, interactions, and patterns.
+
+[Find the gold] (https://ai2.appinventor.mit.edu/#5115008453050368) 
+>In this project we worked with a partner to program a game where you navigate through a maze to find gold.
