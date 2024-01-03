@@ -37,3 +37,6 @@ I am a student at Walpole High School
 
 [Find the gold] (https://ai2.appinventor.mit.edu/#5115008453050368) 
 >In this project we worked with a partner to program a game where you navigate through a maze to find gold.
+
+[Chase the food] (https://ai2.appinventor.mit.edu/#6522958163869696)
+In this project we made a game where you flick a ball to hit a sprite and gain score.
