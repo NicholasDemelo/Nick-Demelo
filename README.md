@@ -29,6 +29,7 @@ I am a student at Walpole High School
  [Final Game Project](https://studio.code.org/projects/gamelab/B1BjaLUFiJ56_AAAWtr_OJxcwC4b7y-6DcT2balTiq4)
 > In this project we made an interactive game. Working by ourselves we made the game by using our knowledge of sprite movement, interactions, and patterns.
 
+### MIT
 [My Piano] (https://ai2.appinventor.mit.edu/#4851335058817024)
 > in this project we made a functioning piano.
 
@@ -40,3 +41,11 @@ I am a student at Walpole High School
 
 [Chase the food] (https://ai2.appinventor.mit.edu/#6522958163869696)
 In this project we made a game where you flick a ball to hit a sprite and gain score.
+
+###  CMU
+[Creative Task 1] (https://academy.cs.cmu.edu/sharing/orangeRedBee5293) 
+>In this project we had free reign to make whatever we wanted.
+
+[Creative Task 2] (https://academy.cs.cmu.edu/sharing/chocolateSquirrel4133
+> In this project we got a partenr and we made whatever we wanted with the skills we learned.
+
