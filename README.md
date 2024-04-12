@@ -49,3 +49,9 @@ In this project we made a game where you flick a ball to hit a sprite and gain s
 [Creative Task 2] (https://academy.cs.cmu.edu/sharing/chocolateSquirrel4133
 > In this project we got a partenr and we made whatever we wanted with the skills we learned.
 
+[Creative Task 3] (https://academy.cs.cmu.edu/sharing/beigeLobster6171)
+> In this project we got a partenr and we made whatever we wanted with the skills we learned.
+
+[Creative Task 4] (https://academy.cs.cmu.edu/sharing/powderBlueHippo4669)
+>In this project we chose a partner to design something. My partner and I chose to make a cookie cutter app.
+
