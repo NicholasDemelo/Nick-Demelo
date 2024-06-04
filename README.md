@@ -42,6 +42,9 @@ I am a student at Walpole High School
 [Chase the food] (https://ai2.appinventor.mit.edu/#6522958163869696)
 In this project we made a game where you flick a ball to hit a sprite and gain score.
 
+[Tour Guide] (https://ai2.appinventor.mit.edu/#4693691562065920)
+>In this project we made an interactive map of an area with specific tourist locations
+
 ###  CMU
 [Creative Task 1] (https://academy.cs.cmu.edu/sharing/orangeRedBee5293) 
 >In this project we had free reign to make whatever we wanted.
@@ -54,4 +57,7 @@ In this project we made a game where you flick a ball to hit a sprite and gain s
 
 [Creative Task 4] (https://academy.cs.cmu.edu/sharing/powderBlueHippo4669)
 >In this project we chose a partner to design something. My partner and I chose to make a cookie cutter app.
+
+[Creative Task 5] (https://academy.cs.cmu.edu/sharing/dodgerBlueFrog6600)
+> in this project we got a partner and had to make an app. My partner and I chose to make a game called pop the pig.
 
